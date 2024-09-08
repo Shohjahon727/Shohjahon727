@@ -1,3 +1,4 @@
+<h1 align="center"> Welcome to Alijonov Shohjahon's profile </h1>
 # 💫 About Me:
 🌍 I'm .NET software engineer from Uzbekistan.<br>⚙️ My specialty : .NET, API, MVC, Razor, Blazor, PostgreSQL<br>💻 My programming languages : .c# , .c++,.html<br>⚔️ Technogies and tools : .net, git, docker,  postgre sql<br>🌱 Learning all about Open Source<br>👯 I'm looking to collaborate on .NET project.<br>💬 Ask me about .NET
 
